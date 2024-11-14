@@ -1,0 +1,6 @@
+"homepage": "https://Rajdeepnaik10.github.io/rajdeep-portfolio",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+
